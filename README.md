@@ -36,3 +36,16 @@ O projeto está organizado da seguinte forma:
 ├── package.json
 ├── README.md
 ```
+## Contribuindo
+Este projeto é aberto para contribuições. Caso deseje colaborar, siga os seguintes passos:
+
+1. Crie um fork deste repositório
+2. Crie uma branch para a sua feature (git checkout -b feature/minha-feature)
+3. Faça as alterações necessárias
+4. Faça o commit das suas alterações (git commit -m 'Adicionando minha feature')
+5. Faça um push para a sua branch (git push origin feature/minha-feature)
+6. Abra um Pull Request explicando as suas alterações e aguarde a revisão.
+
+## Conclusão
+
+Com este projeto de automação de casos no site do Agi Bank, conseguimos garantir que as funcionalidades do site estejam funcionando corretamente, além de economizar tempo e minimizar erros humanos em testes manuais. Esperamos que este projeto possa ser útil para outros desenvolvedores e que possamos continuar aprimorando e contribuindo para a comunidade.
