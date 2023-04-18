@@ -36,6 +36,14 @@ O projeto está organizado da seguinte forma:
 ├── package.json
 ├── README.md
 ```
+## Padrão Page Objects
+
+Neste projeto, optamos por utilizar o padrão Page Objects para organizar e modularizar nossos testes. Essa abordagem nos permite separar a lógica dos testes da lógica da página, o que torna o código mais legível, fácil de manter e de escalar.
+
+Com o Page Objects, podemos criar uma classe para cada página do site e encapsular os elementos e comportamentos específicos de cada página em métodos e propriedades da classe. Dessa forma, nossos testes ficam mais simples e claros, pois não precisam lidar diretamente com a manipulação dos elementos da página.
+
+O padrão Page Objects foi escolhido porque oferece uma maneira eficiente de organizar nossos testes e torná-los mais robustos e escaláveis. Além disso, essa abordagem é amplamente utilizada na comunidade de automação de testes e é recomendada para projetos que exigem manutenção constante.
+
 ## Contribuindo
 Este projeto é aberto para contribuições. Caso deseje colaborar, siga os seguintes passos:
 
