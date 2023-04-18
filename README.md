@@ -12,7 +12,7 @@ Antes de começar a utilizar o projeto, certifique-se de que possui as seguintes
 1. Clone este repositório em sua máquina utilizando o comando git clone https://github.com/hiagonfs/aut-agi.git
 2. Instale as dependências do projeto com o comando npm install
 3. Execute o Cypress com o comando npm run cypress:open
-4 Selecione o arquivo de teste que deseja executar na interface do Cypress
+4. Selecione o arquivo de teste que deseja executar na interface do Cypress
 
 ## Estrutura do Projeto
 
