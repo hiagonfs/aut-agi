@@ -57,3 +57,6 @@ Este projeto é aberto para contribuições. Caso deseje colaborar, siga os segu
 ## Conclusão
 
 Com este projeto de automação de casos no site do Agi Bank, conseguimos garantir que as funcionalidades do site estejam funcionando corretamente, além de economizar tempo e minimizar erros humanos em testes manuais. Esperamos que este projeto possa ser útil para outros desenvolvedores e que possamos continuar aprimorando e contribuindo para a comunidade.
+
+## Licença
+Este projeto está licenciado sob a licença MIT - consulte o arquivo LICENSE para obter detalhes.
