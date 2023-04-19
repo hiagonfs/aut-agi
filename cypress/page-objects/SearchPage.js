@@ -1,6 +1,5 @@
-// cypress/page-objects/SearchPage.js
-
 class SearchPage {
+
   search(term) {
       cy.get('#search-open')
           .click()
@@ -12,6 +11,7 @@ class SearchPage {
     cy.get('#search-open')
           .click();
   }
+  
 }
   
 export default new SearchPage();

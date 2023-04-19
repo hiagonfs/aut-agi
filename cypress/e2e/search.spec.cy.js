@@ -1,9 +1,7 @@
-// cypress/integration/blogdoagi.spec.js
-
 import HomePage from '../page-objects/HomePage';
 import SearchPage from '../page-objects/SearchPage';
 
-describe('Test on Blog do Agi', () => {
+describe('Agi Bank blog search test', () => {
   it('Search for tecnol on Blog do Agi', () => { 
     HomePage.visitSite();
     SearchPage.search('tecnol');

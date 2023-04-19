@@ -1,11 +1,14 @@
-// cypress/page-objects/HomePage.js
-
 import BasePage from './BasePage';
 
+const WINDOW_WIDTH = 1366;
+const WINDOW_HEIGHT = 768;
+const BASE_URL = 'https://blogdoagi.com.br/';
+
 class HomePage extends BasePage {
+
   visitSite() {
-      cy.visit('https://blogdoagi.com.br/');
-      this.setWindowSize(1366, 768);
+    super.visit(BASE_URL);
+    this.setWindowSize(WINDOW_WIDTH, WINDOW_HEIGHT);
   }
 
 }
