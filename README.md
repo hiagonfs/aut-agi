@@ -19,20 +19,17 @@ Antes de começar a utilizar o projeto, certifique-se de que possui as seguintes
 O projeto está organizado da seguinte forma:
 ```
 ├── cypress
-│   ├── fixtures
-│   │   ├── exemplo.json
-│   ├── integration
-│   │   ├── nome-do-teste.spec.js
-│   ├── plugins
-│   │   ├── index.js
+│   ├── 2e2
+│   │   ├── test.json
+│   ├── page-objects
+│   │   ├── Page.js
 │   ├── support
 │   │   ├── comandos.js
 │   │   ├── index.js
-│   ├── videos
-│   │   ├── nome-do-video.mp4
 ├── node_modules
 ├── .gitignore
-├── cypress.json
+├── cypress.config.js
+├── package-lock.json
 ├── package.json
 ├── README.md
 ```
