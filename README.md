@@ -28,6 +28,10 @@ ou
 npm run test
 ```
 
+## Última versão
+
+A versão mais recente do projeto pode ser encontrada na página de [releases](https://github.com/hiagonfs/aut-agi/releases/).
+
 ## Estrutura do Projeto
 
 O projeto está organizado da seguinte forma:
