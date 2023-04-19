@@ -14,6 +14,20 @@ Antes de começar a utilizar o projeto, certifique-se de que possui as seguintes
 3. Execute o Cypress com o comando npm run cypress:open
 4. Selecione o arquivo de teste que deseja executar na interface do Cypress
 
+## Executando via Linha de Comando
+
+Para executar os testes via linha de comando, siga os seguintes passos:
+
+1. Abra o terminal na pasta raiz do projeto.
+2. Execute o seguinte comando para executar os testes no modo headless:
+```
+npx cypress run
+```
+ou
+```
+npm run test
+```
+
 ## Estrutura do Projeto
 
 O projeto está organizado da seguinte forma:
